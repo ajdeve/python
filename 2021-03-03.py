@@ -1,32 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # shuffle the array
-
-# In[2]:
-
-
-nums = [2,5,1,3,4,7]
-n = 3
-
-
-# In[44]:
-
-
-def shuffleArray(nums, n):
-    i = 1
-    list1 = []
-    list2 = []
-    while i<n:
-        list1.append(nums[i])
-    while n<=i<len:
-        list2.append(nums[i])
-    return list1 and list2
-
-print(shuffleArray(nums,n))
-        
-
-
 # # Running Sum of 1d Array
 
 # ## Generator 방법
