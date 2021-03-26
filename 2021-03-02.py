@@ -25,7 +25,7 @@ class Solution:
         return i
 
 
-# ### Other Solutions
+# ## Other Solutions
 
 # In[96]:
 
